@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @yurbro.I am currently a PhD student of Chemical and Processes Engineering at University of Surrey, UK.
-- 👀 I’m interested in artificial intelligence, machine learning, fault diagnosis, formulation design & optimisation, Gen AI for topical formulations and so on.
-- 🌱 Previously, I was studying fault monitoring and diagnosis related to complex industrial processes. Now, there are several projects about diagnosis at present, and I will share my project experience and some open-source code here.
-- 💞️ For my currently research project, I’m working for accelerating and improving formulation design & optimisation on topical drug formulations discovery by leveraging the techologies of process modelling, machine learning, AI, LLM, etc.
-- 📫 If you have any questions or comments on the code or anything else (like, collaboration. hahah), email me at: yurz.control@gmail.com or y.u.zhang@outlook.com
+- 👋 Hi, I’m Yu Zhang (@yurbro), a PhD Researcher in Chemical and Process Engineering and Research Assistant at the University of Surrey, UK.
+- 👀 My research focuses on AI for engineering and science, data-efficient machine learning, digital twins, formulation design and optimisation, scientific LLM systems, and clinical machine learning.
+- 🌱 My earlier work spans industrial process monitoring, fault diagnosis and data-driven analysis of reservoir-simulation outputs.
+- 💞️ My PhD develops AI-enabled methods for dermal formulation design and drug delivery. Alongside my doctoral research, I work with Dr Xilu Wang on reproducible machine-learning workflows for real-world clinical data in assisted reproduction (IVF).
+- 📫 Contact: [yu.zhang@surrey.ac.uk](mailto:yu.zhang@surrey.ac.uk).
+- 🔗 [Website](https://yurbro.github.io/) · [Academic CV](https://yurbro.github.io/cv/) · [Publications](https://yurbro.github.io/publications/) · [Surrey profile](https://www.surrey.ac.uk/people/yu-zhang) · [Google Scholar](https://scholar.google.com/citations?user=W6Jdq00AAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-8389-6716) · [LinkedIn](https://www.linkedin.com/in/yurbro/).
 - Current address: University of Surrey, Guildford, Surrey GU2 7XH, United Kingdom.
